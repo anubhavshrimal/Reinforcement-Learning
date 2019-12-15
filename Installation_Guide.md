@@ -32,11 +32,4 @@ pip install .
 python -m ipykernel install --user --name drlnd --display-name "drlnd"
 ```
 
-5. Clone this repository and run jupyter notebook.
-```bash
-git clone https://github.com/anubhavshrimal/Reinforcement-Learning.git
-cd Reinforcement-Learning/
-jupyter notebook
-```
-
-6. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
+5. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
