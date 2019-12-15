@@ -17,9 +17,15 @@ Each algorithm is used to solve different [OpenAI gym environements](http://gym.
    * [Discretization](./RL-in-continuous-space/Discretization.ipynb)
    * [Tile Coding](./RL-in-continuous-space/Tile_Coding.ipynb)
 
+## Projects
+
+1. [Navigation](https://github.com/anubhavshrimal/Navigation_Udacity_DRLND_P1): Train an agent to collect yellow bananas while avoiding blue bananas using `Deep Q-learning Algorithm`.
+2. [Continuous Control](https://github.com/anubhavshrimal/Continuous_Control_Udacity_DRLND_P2): Train an robotic arm to reach target locations using `DDPG Algorithm`.
+3. [Collaboration and Competition](https://github.com/anubhavshrimal/Collaboration_Competition_Udacity_DRLND_P3): Train a pair of agents to play tennis using `MADDPG Algorithm`.
+
 ## Dependency Installation
 
-Follow the instructions given in the [Installation_Guide.md](Installation_Guide.md) to install the dependencies run the code present in this repository locally.
+Follow the instructions given in the [Installation_Guide.md](Installation_Guide.md) to install the dependencies and run the code present in this repository locally.
 
 
 
