@@ -1,6 +1,6 @@
 # Reinforcement-Learning
 
-This repository contains the implementation of different Reinforcement Learning Algorithms I have learned throughout the [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). 
+This repository contains the implementation and notes of different Reinforcement Learning Algorithms and techniques I have learned throughout the [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). 
 
 Each algorithm is used to solve different [OpenAI gym environements](http://gym.openai.com/envs/).
 
