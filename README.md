@@ -6,16 +6,17 @@ Each algorithm is used to solve different [OpenAI gym environements](http://gym.
 
 ## Algorithms
 
-1. [Monte Carlo](./monte-carlo/)
-2. [Temporal Difference Algorithms](./temporal-difference/)
-   * [Sarsa(0)](./temporal-difference/CliffWalking/)
+1. [Monte Carlo](./Monte-Carlo/)
+2. [Temporal Difference Algorithms](./Temporal-Difference/)
+   * [Sarsa(0)](./Temporal-Difference/CliffWalking/)
    * Q-Learning / Sarsamax
-      * [CliffWalking-v0 environment](./temporal-difference/CliffWalking/)
-      * [Taxi-v2 environment](./temporal-difference/Taxi-V2/)
-   * [Expected Sarsa](./temporal-difference/CliffWalking/)
-3. [RL in Continuous Space](./RL-in-continuous-space/)
-   * [Discretization](./RL-in-continuous-space/Discretization.ipynb)
-   * [Tile Coding](./RL-in-continuous-space/Tile_Coding.ipynb)
+      * [CliffWalking-v0 environment](./Temporal-Difference/CliffWalking/)
+      * [Taxi-v2 environment](./Temporal-Difference/Taxi-V2/)
+   * [Expected Sarsa](./Temporal-Difference/CliffWalking/)
+3. [RL in Continuous Space](./RL-in-Continuous-Space/)
+   * [Discretization](./RL-in-Continuous-Space/Discretization.ipynb)
+   * [Tile Coding](./RL-in-Continuous-Space/Tile_Coding.ipynb)
+4. [Deep Q-Network](./Deep-Q-Network/)
 
 ## Projects
 
