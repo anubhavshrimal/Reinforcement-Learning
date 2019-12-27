@@ -17,6 +17,10 @@ Each algorithm is used to solve different [OpenAI gym environements](http://gym.
    * [Discretization](./RL-in-Continuous-Space/Discretization.ipynb)
    * [Tile Coding](./RL-in-Continuous-Space/Tile_Coding.ipynb)
 4. [Deep Q-Network](./Deep-Q-Network/)
+   * [Neural Network based](./Deep-Q-Network/DQN-NN/)
+   * [Convolutional Neural Network based](./Deep-Q-Network/DQN-CNN/)
+5. [Double Deep-Q-Network](./Double-DQN/)
+6. [Dueling Deep-Q-Network](./Dueling-DQN/)
 
 ## Projects
 
@@ -36,4 +40,10 @@ I have also provided the notes I created while learning the above mentioned algo
 2. [Monte Carlo Methods](./RL-Notes/02&#32;-&#32;Monte&#32;Carlo&#32;Methods.pdf)
 3. [Temporal Difference Methods](./RL-Notes/03&#32;-&#32;Temporal&#32;Difference&#32;Methods.pdf)
 4. [RL in Continuous Space](./RL-Notes/04&#32;-&#32;RL&#32;in&#32;Continuous&#32;Space.pdf)
-5. [Cheatsheet](./RL-Notes/cheatsheet.pdf)
+5. [Deep Q Networks](./RL-Notes/05&#32;-&#32;Deep&#32;Q-Networks.pdf)
+   * Deep Q-Network (DQN)
+   * Double DQN
+   * Prioritized Experience Replay
+   * Dueling DQN
+   * Rainbow DQN
+* [Cheatsheet](./RL-Notes/cheatsheet.pdf)
